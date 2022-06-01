@@ -8,8 +8,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-import org.springframework.data.domain.Sort.Order;
-import org.springframework.data.util.Streamable;
+
 
 @Entity
 @Table(name = "cadastroveiculos")

@@ -12,10 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.TOTVS.FictiusClean.Domain.CadastroVeiculos;
 import com.TOTVS.FictiusClean.Services.CadastroVeiculosService;
 
-
-
-
-
 @RestController
 @RequestMapping(value ="/cadastroveiculos")
 public class CadastroVeiculosResources {

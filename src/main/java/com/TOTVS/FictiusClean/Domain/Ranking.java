@@ -1,6 +1,6 @@
 package com.TOTVS.FictiusClean.Domain;
 
-import java.math.BigDecimal;
+
 
 public class Ranking {
 	
