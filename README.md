@@ -26,12 +26,18 @@ O retorno deverá ter os seguintes dados:
 ▪ Quantidade de combustível gasto
 ▪ Valor total gasto com combustível
 
+
+-----------------------------------------------------------------------
+
+
 - PRE REQUISITOS 
 
 - JDK 8
 - MYSQL
 - Spring Tool Suite 4 -  4.8.1
--
+
+--------------------------------------------------------------------------
+
 - COMO EXECUTAR
 
 - CRIAR AS TABELAS NO BANCO MYSQL 
