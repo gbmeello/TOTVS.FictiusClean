@@ -1,0 +1,83 @@
+{
+	"info": {
+		"_postman_id": "701d8857-17a4-4826-a39a-0a53c27c5423",
+		"name": "TESTETOTVS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "12697565"
+	},
+	"item": [
+		{
+			"name": "localhost:8081/ranking/getGastos",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "",
+						"value": "\n",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\t\"precoGasolina\": 3.91,\r\n\t\"kmtotalCidade\": 17.25,\r\n\t\"kmtotalRodovia\": 82.12\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8081/ranking/getGastos",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"ranking",
+						"getGastos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8081/ranking/createVeiculo",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "",
+						"value": "\n",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n        \"nome\": \"celta\",\r\n        \"marca\": \"gm\",\r\n        \"modelo\": \"ltz\",\r\n        \"datafabricacao\": \"2022\",\r\n        \"consumomediocidade\": \"20.5\",       \r\n        \"consumomediorodovias\": \"30.0\"    \r\n        }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8081/ranking/createVeiculo",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"ranking",
+						"createVeiculo"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
