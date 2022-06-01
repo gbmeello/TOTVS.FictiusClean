@@ -60,3 +60,5 @@ Após estruturação do BANCO OK, Executar o projeto SpringAPP.
 
 ![image](https://user-images.githubusercontent.com/51979696/171486876-a7328925-e411-4cd1-9e76-f25ace64fb29.png)
 
+
+- EXISTE UM ARQUIVO .JSON UTILIZADO NO POSTMAN PARA TESTE DOS PARAMETROS
