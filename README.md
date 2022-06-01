@@ -35,9 +35,12 @@ O retorno deverá ter os seguintes dados:
 - COMO EXECUTAR
 
 - CRIAR AS TABELAS NO BANCO MYSQL 
-NOME DO BANCO EM QUE FOI CRIADO PODENDO ALTERAR NO PROPETIES: teste_rpa
-NOME DA TABELA:cadastroveiculos
-ESTRUTURA DA TABELA
+
+-
+
+-NOME DO BANCO EM QUE FOI CRIADO PODENDO ALTERAR NO PROPETIES: teste_rpa
+-NOME DA TABELA:cadastroveiculos
+-ESTRUTURA DA TABELA
 - ![image](https://user-images.githubusercontent.com/51979696/171484529-c0b911b7-194e-499e-8fe1-b639db910657.png)
 
 
