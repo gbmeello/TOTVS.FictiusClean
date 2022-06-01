@@ -50,6 +50,12 @@ public class CadastroVeiculosDTO {
    public Double getConsumomediorodovias() {
 	   return consumomediorodovias;
    }
+   
+   public CadastroVeiculos cadvel() {
+		
+				
+		return new CadastroVeiculos(nome, marca, modelo, datafabricacao, consumomediocidade, consumomediorodovias);
+	}
 
 
 }

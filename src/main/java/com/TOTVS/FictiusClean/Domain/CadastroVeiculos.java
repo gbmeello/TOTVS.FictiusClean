@@ -76,7 +76,7 @@ public class CadastroVeiculos {
 	public CadastroVeiculos() {
 		
 	}
-	public CadastroVeiculos(Integer id, String nome, String marca, String modelo, String datafabricacao,
+	public CadastroVeiculos(String nome, String marca, String modelo, String datafabricacao,
 			Double consumomediocidade, Double consumomediorodovias) {
 		super();
 		this.id = id;
