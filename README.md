@@ -1,5 +1,5 @@
-# TOTVS.FictiusClean
-Projeto Desenvolvido para teste de Backend na Empresa TOTVS
+# FictiusClean
+Projeto Desenvolvido para teste de Backend
 
 - DESAFIO
 
